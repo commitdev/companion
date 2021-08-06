@@ -7,9 +7,6 @@ The manual to a successful software engineering career!
 ## Usage
 - [How to navigate around/find things/how we organize thigns]()
 - [How to add your own updates/fix typos/contribute]()
-
-<button>Simple</button>
-  
   
 <details>
   <summary><strong>Feedback</strong></summary>
