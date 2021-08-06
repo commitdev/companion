@@ -60,6 +60,8 @@ To provide startup engineers a single source of truth for everything they will n
   </tr>
 </table>
 
+---
+
 # Engineering Blog
 
 #### Upcoming Articles
