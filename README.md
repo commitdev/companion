@@ -16,9 +16,12 @@ It is the collective open source knowledge base for all the voices of experts of
 To provide startup engineers a single source of truth for everything they will need on their journey to success (ie. from before internship all the way to founder!)
 </details>
 
-## Usage
-- [How to navigate around/find things/how we organize thigns]()
-- [How to add your own updates/fix typos/contribute]()
+<details>
+  <summary>Usage</summary>
+  
+  - [How to navigate around/find things/how we organize thigns]()
+  - [How to add your own updates/fix typos/contribute]()
+</details>
  
 <!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
 <!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
