@@ -1,8 +1,8 @@
 # Companion
 
-![Banner](https://github.com/commitdev/companion/blob/master/companion.png)
-
 The manual to a successful software engineering career!
+
+![Banner](https://github.com/commitdev/companion/blob/master/companion.png)
 
 ## Usage
 - [How to navigate around/find things/how we organize thigns]()
