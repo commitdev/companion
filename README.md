@@ -9,7 +9,7 @@ The manual to a successful software engineering career!
 - [How to add your own updates/fix typos/contribute]()
 
 ## The Reference Architecture
-- [Architecture](
+- [Architecture]()
   - [Frontend]())
   - [Backend]()
   - [Database]()
