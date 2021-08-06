@@ -12,6 +12,25 @@ The manual to a successful software engineering career!
 - [Infrastructure]()
   - [Zero]()
 
+## The Commit Journey
+
+- [How do I join commit?]()
+  - [Nomination]()
+  - [Virtual Get To Know you]()
+  - [Technical Assessment]()
+    - [Welcome aboard]()
+    - [What to do if you're not accepted]()
+      - [Joining our learning community]()
+- [What happens after I join?]()
+  - [HOP]()
+     - [Blog]()
+  - [ECPG]()
+     - [Blog]()
+  - [Start the next phase of your journey with a startup partner]()
+     - [Contributing back to Commit via Discussions]()
+     - [Coming back for learning events]()
+     - [Mentoring/helping others in our community()
+
 ## Contribute
 - [How can I help contribute?]()
 
