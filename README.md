@@ -10,13 +10,12 @@ The manual to a successful software engineering career!
  
 <!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
 <!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
-<details>
-  <summary><strong>Feedback & Ideas</strong></summary>
-  
-  - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
-  - [What do you want to see in our engineering blog articles?]()
-  - [What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions)
-</details>
+<!--[What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions) @simon will add when i have a discussion set up-->
+
+## Feedback & Ideas
+
+- [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
+- [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
 
 ## The Reference Architecture
 - [Architecture]()
