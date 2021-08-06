@@ -13,6 +13,7 @@ The manual to a successful software engineering career!
   
   - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
   - [What do you want to see in our blog articles?]()
+  <!--[What do you want to see in our HOP blog articles?]()-->
   - [Chat with us about anything software related](https://github.com/commitdev/companion/discussions)
 </details>
 
