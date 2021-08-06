@@ -15,9 +15,12 @@ The manual to a successful software engineering career!
   - [Database]()
   - [Logging]()
   - [Monitoring]()
+    - [Errors]()
     - [Performance]()
 - [Infrastructure]()
   - [CI/CD]()
+  - [Backup/Recovery]()
+  - [Infrastructure as code]()
   - [Zero]()
 
 ## The Commit Journey
