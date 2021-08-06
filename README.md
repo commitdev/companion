@@ -38,12 +38,12 @@ To provide startup engineers a single source of truth for everything they will n
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" colspan="3">
       <img src="https://github.com/commitdev/companion/blob/master/zero.png" width="50%">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="3">
       Opinionated infrastructure to take you from idea to production on day one.
     </td>
   </tr>
