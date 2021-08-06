@@ -9,9 +9,8 @@ The manual to a successful software engineering career!
 - [How to add your own updates/fix typos/contribute]()
   
 <details>
-  <summary><strong>Feedback</strong></summary>
-  
-  - [What do you want to see in the companion]()
+  <summary><strong>Feedback & Ideas</strong></summary>
+  - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
   - [What do you want to see in our blog articles?]()
   - [Chat with us about anything software related](https://github.com/commitdev/companion/discussions)
 </details>
