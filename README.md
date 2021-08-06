@@ -8,13 +8,14 @@ The manual to a successful software engineering career!
 - [How to navigate around/find things/how we organize thigns]()
 - [How to add your own updates/fix typos/contribute]()
  
-<!--[What do you want to see in our HOP blog articles?]()-->
+<!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
+<!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
 <details>
   <summary><strong>Feedback & Ideas</strong></summary>
   
   - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
-  - [What do you want to see in our blog articles?]()
-  - [Chat with us about anything software related](https://github.com/commitdev/companion/discussions)
+  - [What do you want to see in our engineering blog articles?]()
+  - [What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions)
 </details>
 
 ## The Reference Architecture
