@@ -27,12 +27,13 @@ To provide startup engineers a single source of truth for everything they will n
 <!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
 <!--[What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions) @simon will add when i have a discussion set up-->
 
-## Feedback & Ideas
+### Feedback & Ideas
 
 - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
 - [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
 
-## The Reference Architecture
+<!--
+### The Reference Architecture
 - [Architecture]()
   - [Frontend]()
   - [Backend]()
@@ -89,3 +90,4 @@ To provide startup engineers a single source of truth for everything they will n
 - [Events]()
   - [Upcoming]()
   - [Past]()
+-->
