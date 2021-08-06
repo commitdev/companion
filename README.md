@@ -44,6 +44,8 @@ The manual to a successful software engineering career!
      - [Blog]()
   - [ECPG]()
      - [Blog]()
+  - [Matching process]()
+     - [Platform]()
   - [Start the next phase of your journey with a startup partner]()
      - [Contributing back to Commit via Discussions]()
      - [Coming back for learning events]()
