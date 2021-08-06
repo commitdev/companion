@@ -14,7 +14,7 @@ The manual to a successful software engineering career!
 - [Chat with us about anything software related](https://github.com/commitdev/companion/discussions)
 
 <details>
-  <summary><h1>Feedback</h1></summary>
+  <summary><strong>Feedback</strong></summary>
   
   - [What do you want to see in the companion]()
   - [What do you want to see in our blog articles?]()
