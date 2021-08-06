@@ -66,4 +66,3 @@ The manual to a successful software engineering career!
 - [Events]()
   - [Upcoming]()
   - [Past]()
-  - test
