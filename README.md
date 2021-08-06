@@ -27,6 +27,8 @@ The manual to a successful software engineering career!
   - [Backup/Recovery]()
   - [Infrastructure as code]()
   - [Zero]()
+- [Markdown]()
+  - [GFM - GitHub Flavoured Markdown]()
 
 ## The Commit Journey
 
