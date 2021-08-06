@@ -10,7 +10,7 @@ The manual to a successful software engineering career!
 
 ## The Reference Architecture
 - [Architecture]()
-  - [Frontend]())
+  - [Frontend]()
   - [Backend]()
   - [Database]()
   - [Logging]()
