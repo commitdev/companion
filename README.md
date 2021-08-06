@@ -49,10 +49,7 @@ To provide startup engineers a single source of truth for everything they will n
   </tr>
   <tr>
     <td align="center">
-      Github
-    </td>
-    <td align="center">
-      Slack
+      <a href="https://github.com/commitdev/zero">GITHUB</a>
     </td>
     <td align="center">
       <a href="https://getzero.dev">WEBSITE</a>
