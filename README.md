@@ -36,7 +36,7 @@ To provide startup engineers a single source of truth for everything they will n
 
 # Products
 
-[Zero]
+![Zero](https://github.com/commitdev/companion/blob/master/zero.png)
 
 # Engineering Blog
 
