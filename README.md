@@ -7,13 +7,13 @@ The manual to a successful software engineering career!
 ## Usage
 - [How to navigate around/find things/how we organize thigns]()
 - [How to add your own updates/fix typos/contribute]()
-  
+ 
+<!--[What do you want to see in our HOP blog articles?]()-->
 <details>
   <summary><strong>Feedback & Ideas</strong></summary>
   
   - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
   - [What do you want to see in our blog articles?]()
-  <!--[What do you want to see in our HOP blog articles?]()-->
   - [Chat with us about anything software related](https://github.com/commitdev/companion/discussions)
 </details>
 
