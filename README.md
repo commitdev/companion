@@ -2,6 +2,14 @@
 
 The manual to a successful software engineering career!
 
+## What is the Companion?
+
+It is the collective open source knowledge base for all the voices of experts of everyone we connect within our community (you can be part of our community too!).
+
+## Why is Commit doing this?
+
+To provide [startup engineers]() a single source of truth for everything they will need on their journey to success (ie. from before internship all the way to founder!)
+
 <!--![Banner](https://github.com/commitdev/companion/blob/master/companion.png)-->
 
 ## Usage
