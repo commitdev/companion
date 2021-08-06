@@ -9,7 +9,15 @@ The manual to a successful software engineering career!
 - [How to add your own updates/fix typos/contribute]()
 
 ## The Reference Architecture
+- [Architecture](
+  - [Frontend]())
+  - [Backend]()
+  - [Database]()
+  - [Logging]()
+  - [Monitoring]()
+    - [Performance]()
 - [Infrastructure]()
+  - [CI/CD]()
   - [Zero]()
 
 ## The Commit Journey
