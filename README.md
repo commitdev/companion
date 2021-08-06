@@ -8,12 +8,13 @@ The manual to a successful software engineering career!
 
 It is the collective open source knowledge base for all the voices of experts of everyone we connect within our community (you can be part of our community too!).
 
-### Why is Commit doing this?
 
+<details>
+  <summary>Why is Commit doing this?</summary>
+  
 <!-- @simon we should link to the definition of startup engineer -->
 To provide startup engineers a single source of truth for everything they will need on their journey to success (ie. from before internship all the way to founder!)
-
-
+</details>
 
 ## Usage
 - [How to navigate around/find things/how we organize thigns]()
