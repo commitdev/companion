@@ -19,8 +19,8 @@ To provide startup engineers a single source of truth for everything they will n
 <details>
   <summary>How to contribute</summary>
   
-  - [Submitting your ideas in discussion]
-  - [Drop your thoughts into the community discussions]
+  - [Submitting your ideas in discussion](https://github.com/commitdev/companion/discussions)
+  - [Drop your thoughts into the community discussions](https://github.com/commitdev/companion/discussions)
 </details>
  
 <!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
