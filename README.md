@@ -32,12 +32,12 @@ To provide startup engineers a single source of truth for everything they will n
 - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
 - [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
 
-### Engineering Blog
+# Engineering Blog
 
 #### Upcoming Articles
 
 Date|Topic
-:-:|---
+:-:|:--
 ?|Intro to Commit's Engineering Blog
 ?|RPC Router on the Commit Platform
 
