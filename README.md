@@ -39,7 +39,7 @@ To provide startup engineers a single source of truth for everything they will n
 <table>
   <tr>
     <td align="center" colspan="3">
-      <img src="https://github.com/commitdev/companion/blob/master/zero.png" width="20%">
+      <img src="https://github.com/commitdev/companion/blob/master/zero.png" width="25%">
     </td>
   </tr>
   <tr>
