@@ -37,10 +37,17 @@ The manual to a successful software engineering career!
   - [Start the next phase of your journey with a startup partner]()
      - [Contributing back to Commit via Discussions]()
      - [Coming back for learning events]()
-     - [Mentoring/helping others in our community()
+     - [Mentoring/helping others in our community]()
+
+## Community
+- [How to find mentors/help]()
+- [What does Commit to do support engineers in the community?]()
 
 ## Contribute
 - [How can I help contribute?]()
+  - [Companion]()
+  - [Platform]()
+  - [Zero]()
 
 ## Feedback
 - [What do you want to see in our blog articles?]()
@@ -48,8 +55,10 @@ The manual to a successful software engineering career!
 
 ## Resources
 
-- [Blog]()
+- [Blog/Articles]()
   - [Engineering]()
+  - [FLOC - First line of code]()
+  - [HOP]()
 - [Events]()
   - [Upcoming]()
   - [Past]()
