@@ -52,6 +52,9 @@ To provide startup engineers a single source of truth for everything they will n
       <a href="https://github.com/commitdev/zero">GITHUB</a>
     </td>
     <td align="center">
+      <a href="https://slack.getzero.dev">GITHUB</a>
+    </td>
+    <td align="center">
       <a href="https://getzero.dev">WEBSITE</a>
     </td>
   </tr>
