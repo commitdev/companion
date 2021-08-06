@@ -8,6 +8,11 @@ The manual to a successful software engineering career!
 - [How to navigate around/find things/how we organize thigns]()
 - [How to add your own updates/fix typos/contribute]()
 
+## Feedback
+- [What do you want to see in the companion]()
+- [What do you want to see in our blog articles?]()
+- [Chat with us about anything software related](https://github.com/commitdev/companion/discussions)
+
 ## The Reference Architecture
 - [Architecture]()
   - [Frontend]()
@@ -51,10 +56,6 @@ The manual to a successful software engineering career!
   - [Companion]()
   - [Platform]()
   - [Zero]()
-
-## Feedback
-- [What do you want to see in our blog articles?]()
-- [Chat with us about anything software related](https://github.com/commitdev/companion/discussions)
 
 ## Resources
 
