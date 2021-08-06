@@ -6,7 +6,7 @@ The manual to a successful software engineering career!
 
 ### What is the Companion?
 
-It is the collective open source knowledge base for all the voices of experts of everyone we connect within our community (you can be part of our community too!).
+It is the collective open source knowledge base for all the voices of experts of everyone we connect within the [Commit](https://commit.dev/) community (you can be part of our community too!).
 
 
 <details>
