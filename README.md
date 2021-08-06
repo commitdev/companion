@@ -17,10 +17,10 @@ To provide startup engineers a single source of truth for everything they will n
 </details>
 
 <details>
-  <summary>Usage</summary>
+  <summary>How to contribute</summary>
   
-  - [How to navigate around/find things/how we organize thigns]()
-  - [How to add your own updates/fix typos/contribute]()
+  - [Submitting your ideas in discussion]
+  - [Drop your thoughts into the community discussions]
 </details>
  
 <!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
