@@ -33,7 +33,7 @@ To provide startup engineers a single source of truth for everything they will n
 
 ---
 
-# The Reference Architecture
+## The Reference Architecture
 
 > WIP, we're slowly building out this section -- let us know which sections you want filled out first at https://github.com/commitdev/companion/discussions/1
 
@@ -83,7 +83,7 @@ To provide startup engineers a single source of truth for everything they will n
 
 ---
 
-# Engineering Blog
+## Engineering Blog
 
 #### Upcoming Articles
 
