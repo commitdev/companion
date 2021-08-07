@@ -89,8 +89,8 @@ To provide startup engineers a single source of truth for everything they will n
 
 Date|Topic
 :-:|:--
-?|Intro to Commit's Engineering Blog
-?|RPC Router on the Commit Platform
+TBD|Intro to Commit's Engineering Blog
+TBD|RPC Router on the Commit Platform
 
 - [Past Articles]()
 - [Drafts](https://docs.google.com/document/d/1ed4-RVeMUNDDJZvfK7eArJDHjIgl62HuH83b4jK-_Qc/edit)
