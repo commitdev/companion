@@ -8,7 +8,6 @@ The manual to a successful software engineering career!
 
 It is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
 
-
 <details>
   <summary>Why is Commit doing this?</summary>
   
@@ -31,6 +30,26 @@ To provide startup engineers a single source of truth for everything they will n
 
 - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
 - [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
+
+### The Reference Architecture
+
+> WIP, We're slowly building out this section. ;)
+
+- Architecture
+  - Frontend
+  - Backend
+  - Database
+  - Logging
+  - Monitoring
+    - Errors
+    - Performance
+- Infrastructure
+  - CI/CD
+  - Backup/Recovery
+  - Infrastructure as code
+    - Zero
+- Markdown
+  - GFM - GitHub Flavoured Markdown
 
 ---
 
@@ -76,22 +95,6 @@ Date|Topic
 
 
 <!--
-### The Reference Architecture
-- [Architecture]()
-  - [Frontend]()
-  - [Backend]()
-  - [Database]()
-  - [Logging]()
-  - [Monitoring]()
-    - [Errors]()
-    - [Performance]()
-- [Infrastructure]()
-  - [CI/CD]()
-  - [Backup/Recovery]()
-  - [Infrastructure as code]()
-  - [Zero]()
-- [Markdown]()
-  - [GFM - GitHub Flavoured Markdown]()
 
 ## The Commit Journey
 
