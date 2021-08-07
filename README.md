@@ -55,7 +55,7 @@ To provide startup engineers a single source of truth for everything they will n
 
 ---
 
-# Products
+## Products
 
 <table>
   <tr>
