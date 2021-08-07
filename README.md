@@ -82,6 +82,11 @@ To provide startup engineers a single source of truth for everything they will n
 </table>
 
 <table>
+  <tr>
+    <td align="center" colspan="3">
+    </td>
+  </tr>
+  <tr>
     <td align="center" colspan="3">
       Opinionated infrastructure to take you from idea to production on day one.
     </td>
@@ -98,6 +103,8 @@ To provide startup engineers a single source of truth for everything they will n
     </td>
   </tr>
 </table>
+
+
 
 ---
 
