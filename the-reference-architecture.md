@@ -1,6 +1,6 @@
 # The Reference Architecture
 
-> WIP, we're slowly building out this section -- let us know [what you want to see first](https://github.com/commitdev/companion/discussions/8)
+> WIP, we're slowly building out this section -- let us know [what you want to see first](https://github.com/commitdev/companion/discussions/10)
 
 - Architecture
   - Frontend
