@@ -11,6 +11,6 @@ TBD|RPC Router on the Commit Platform|@Alexandre-Georges
 
 ## Past Articles
 
-Date|Topic
-:-:|:--
--|-
+Date|Topic|Author
+:-:|:--|:--
+-|-|-
