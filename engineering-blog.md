@@ -2,7 +2,7 @@
 
 - [Drafts](https://docs.google.com/document/d/1ed4-RVeMUNDDJZvfK7eArJDHjIgl62HuH83b4jK-_Qc/edit)
 
-## Upcoming articles
+## Upcoming Articles
 
 Date|Topic|Author
 :-:|:--|:--
