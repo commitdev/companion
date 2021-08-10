@@ -15,6 +15,7 @@ Section|Description
   <summary>Why is Commit doing this?</summary>
   
 <!-- @simon we should link to the definition of startup engineer -->
+  
 To provide startup engineers a single source of truth for everything they will need on their journey to success (ie. from before internship all the way to founder!)
 </details>
 
