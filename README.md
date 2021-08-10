@@ -1,16 +1,10 @@
 # Companion
 
-The manual to a successful software engineering career! The Companion is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
-
 ![Banner](https://github.com/commitdev/companion/blob/master/companion.png)
 
+The manual to a successful software engineering career! The Companion is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
 
- 
-<!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
-<!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
-<!--[What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions) @simon will add when i have a discussion set up-->
-
-### Table of Contents
+## Table of Contents
 
 - [Engineering Blog](engineering-blog.md)
 - [Products](products.md)
@@ -32,6 +26,10 @@ To provide startup engineers a single source of truth for everything they will n
 </details>
 
 <!--
+<!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
+<!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
+<!--[What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions) @simon will add when i have a discussion set up-->
+
 
 ## The Commit Journey
 
