@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/commitdev/companion/blob/master/companion.png)
 
-The manual to a successful software engineering career! The Companion is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
+The Companion is the manual to a successful software engineering career! It is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
 
 ## Table of Contents
 
