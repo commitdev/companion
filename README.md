@@ -11,7 +11,7 @@ The Companion is the manual to a successful software engineering career! It is t
   </tr>
   <tr>
     <td><a href="engineering-blog.md">Engineering Blog</a></td>
-    <td>The archive of technical articles posted by all the experts in our community</td>
+    <td>The archive of technical blog posts created by all the experts in our community</td>
   </tr>
   <tr>
     <td><a href="products.md">Products</a></td>
