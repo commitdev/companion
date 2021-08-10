@@ -4,9 +4,12 @@
 
 The Companion is the manual to a successful software engineering career! It is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
 
-- [Discusssions](https://github.com/commitdev/companion/discussions)
-- [Engineering Blog](engineering-blog.md)
-- [Products](products.md)
+Section|Description
+:--|:--
+[Discusssions](https://github.com/commitdev/companion/discussions)|Where the community discussions take place
+[Engineering Blog](engineering-blog.md)|The archive of technical articles posted by all the experts in our community
+[Products](products.md)|The products we sponsor at Commit
+[The Reference Architecture](the-reference-architecture.md)|The documented knowledge and recommendations from all of the experts in our community
 
 <details>
   <summary>Why is Commit doing this?</summary>
