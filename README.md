@@ -34,7 +34,7 @@ To provide startup engineers a single source of truth for everything they will n
 
 ### Table of Contents
 
-- [Engineering Blog](/engineering-blog.md)
+- [Engineering Blog](engineering-blog.md)
 
 
 ## The Reference Architecture
