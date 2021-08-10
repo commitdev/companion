@@ -30,7 +30,7 @@ To provide startup engineers a single source of truth for everything they will n
 <!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
 <!--[What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions) @simon will add when i have a discussion set up-->
 
-
+<!--
 ## The Commit Journey
 
 - [How do I join commit?]()
