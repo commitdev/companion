@@ -11,6 +11,25 @@ Section|Description
 [Products](products.md)|The products we sponsor at Commit
 [The Reference Architecture](the-reference-architecture.md)|The documented knowledge and recommendations from all of the experts in our community
 
+<table>
+  <tr>
+    <td><a href="https://github.com/commitdev/companion/discussions">Discussions</a></td>
+    <td>Where the community discussions take place</td>
+  </tr>
+  <tr>
+    <td><a href="engineering-blog.md">Engineering Blog</a></td>
+    <td>The archive of technical articles posted by all the experts in our community</td>
+  </tr>
+  <tr>
+    <td><a href="products.md">Products</a></td>
+    <td>The products we sponsor at Commit</td>
+  </tr>
+  <tr>
+    <td><a href="the-reference-architecture.md">The Reference Architecture</a></td>
+    <td>The documented knowledge and recommendations from all the experts in our community</td>
+  </tr>
+</table>
+
 <details>
   <summary>Why is Commit doing this?</summary>
   
