@@ -7,6 +7,15 @@ The manual to a successful software engineering career!
 ### What is the Companion?
 
 It is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
+ 
+<!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
+<!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
+<!--[What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions) @simon will add when i have a discussion set up-->
+
+### Table of Contents
+
+- [Engineering Blog](engineering-blog.md)
+- [Products](products.md)
 
 <details>
   <summary>Why is Commit doing this?</summary>
@@ -23,16 +32,6 @@ To provide startup engineers a single source of truth for everything they will n
     - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
     - [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
 </details>
- 
-<!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
-<!--[What do you want to see in our FLOC blog articles?]() @anita we should discuss with @phong in the future-->
-<!--[What do you want to see in The Reference Architecture?](https://github.com/commitdev/companion/discussions) @simon will add when i have a discussion set up-->
-
-### Table of Contents
-
-- [Engineering Blog](engineering-blog.md)
-- [Products](products.md)
-
 
 <!--
 
