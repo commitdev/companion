@@ -31,18 +31,10 @@ To provide startup engineers a single source of truth for everything they will n
 - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
 - [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
 
-## Engineering Blog
 
-#### Upcoming Articles
+### Table of Contents
 
-Date|Topic
-:-:|:--
-TBD|Intro to Commit's Engineering Blog
-TBD|RPC Router on the Commit Platform
-
-- [Past Articles]()
-- [Drafts](https://docs.google.com/document/d/1ed4-RVeMUNDDJZvfK7eArJDHjIgl62HuH83b4jK-_Qc/edit)
-
+- [Engineering Blog](/engineering-blog.md)
 
 
 ## The Reference Architecture
