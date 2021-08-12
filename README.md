@@ -23,6 +23,8 @@ To provide startup engineers a single source of truth for everything they will n
 
 # Guides
 
+<!-- current person from existing EPs, jrs -->
+
 <table>
   <tr>
     <td><a href="the-project-management-manual.md">The Project Management Manual</a></td>
