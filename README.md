@@ -54,7 +54,7 @@ To provide startup engineers a single source of truth for everything they will n
     <td>Our general blog</td>
   </tr>
   <tr>
-    <td><a href="sponsored-projects.md">Engineering Blog</a></td>
+    <td><a href="sponsored-projects.md">Sponsored Projects</a></td>
     <td>The the projects we sponsor</td>
   </tr>
 </table>
