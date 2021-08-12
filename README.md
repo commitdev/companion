@@ -49,7 +49,7 @@ To provide startup engineers a single source of truth for everything they will n
 
 # References
 
-- [Our Blog](https://blog.commit.dev/)
+- [Our blog](https://blog.commit.dev/)
 - [Our website](https://commit.dev/)
 - [Sponsored projects](sponsored-projects.md)
 
