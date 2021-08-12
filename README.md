@@ -47,14 +47,12 @@ To provide startup engineers a single source of truth for everything they will n
   </tr>
 </table>
 
-# Sponsored Projects
+# References
 
-<table>
-  <tr>
-    <td><a href="products.md">Sponsored Projects</a></td>
-    <td>The projects we sponsor at Commit</td>
-  </tr>
-</table>
+- [Our Blog](https://blog.commit.dev/)
+- [Our website](https://commit.dev/)
+- [Sponsored projects](sponsored-projects.md)
+
 
 <!--
 <!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
