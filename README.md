@@ -50,7 +50,7 @@ To provide startup engineers a single source of truth for everything they will n
     <td>The archive of technical blog posts created by all the experts in our community</td>
   </tr>
   <tr>
-    <td><a href="https://blog.commit.dev/">Blog</a></td>
+    <td><a href="https://blog.commit.dev/">General Blog</a></td>
     <td>Our general blog</td>
   </tr>
   <tr>
