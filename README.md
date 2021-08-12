@@ -45,14 +45,19 @@ To provide startup engineers a single source of truth for everything they will n
     <td><a href="engineering-blog.md">Engineering Blog</a></td>
     <td>The archive of technical blog posts created by all the experts in our community</td>
   </tr>
+    <tr>
+    <td><a href="https://commit.dev/">Our website</a></td>
+    <td>The archive of technical blog posts created by all the experts in our community</td>
+  </tr>
+  <tr>
+    <td><a href="https://blog.commit.dev/">Blog</a></td>
+    <td>Our general blog</td>
+  </tr>
+  <tr>
+    <td><a href="sponsored-projects.md">Engineering Blog</a></td>
+    <td>The the projects we sponsor</td>
+  </tr>
 </table>
-
-# References
-
-- [Our blog](https://blog.commit.dev/)
-- [Our website](https://commit.dev/)
-- [Sponsored projects](sponsored-projects.md)
-
 
 <!--
 <!--[What do you want to see in our HOP blog articles?]() @anita we should discuss with @phong in the future-->
