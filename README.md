@@ -4,6 +4,21 @@
 
 The Companion is the manual to a successful software engineering career! It is the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
 
+# Manuals
+
+<table>
+  <tr>
+    <td><a href="the-project-management-manual.md">The Project Management Manual</a></td>
+    <td>The documented knowledge and recommendations from all the experts in our community with regards to project management</td>
+  </tr>
+  <tr>
+    <td><a href="the-reference-architecture.md">The Reference Architecture</a></td>
+    <td>The documented knowledge and recommendations from all the experts in our community with regards to recommended technologies</td>
+  </tr>
+</table>
+
+# Archive
+
 <table>
   <tr>
     <td><a href="https://github.com/commitdev/companion/discussions">Discussions</a></td>
@@ -13,14 +28,11 @@ The Companion is the manual to a successful software engineering career! It is t
     <td><a href="engineering-blog.md">Engineering Blog</a></td>
     <td>The archive of technical blog posts created by all the experts in our community</td>
   </tr>
-  <tr>
-    <td><a href="the-project-management-manual.md">The Project Management Manual</a></td>
-    <td>The documented knowledge and recommendations from all the experts in our community with regards to project management</td>
-  </tr>
-  <tr>
-    <td><a href="the-reference-architecture.md">The Reference Architecture</a></td>
-    <td>The documented knowledge and recommendations from all the experts in our community with regards to recommended technologies</td>
-  </tr>
+</table>
+
+# Sponsored Projects
+
+<table>
   <tr>
     <td><a href="products.md">Sponsored Projects</a></td>
     <td>The projects we sponsor at Commit</td>
