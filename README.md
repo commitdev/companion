@@ -46,7 +46,7 @@ To provide startup engineers a single source of truth for everything they will n
     <td>The archive of technical blog posts created by all the experts in our community</td>
   </tr>
     <tr>
-    <td><a href="https://commit.dev/">Our website</a></td>
+    <td><a href="https://commit.dev/">Our Website</a></td>
     <td>The archive of technical blog posts created by all the experts in our community</td>
   </tr>
   <tr>
