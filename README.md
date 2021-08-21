@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/commitdev/companion/blob/master/companion.png)
 
-The Companion is the manual to a successful software engineering career! It is a website we host at [companion.commit.dev](https://commit-companion.web.app/), serving as tthe collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
+The Companion is the manual to a successful software engineering career! It is a website we host at [companion.commit.dev](https://commit-companion.web.app/), serving as the collective open source knowledge base of expertise from everyone in the [Commit](https://commit.dev/) community.
 
 <details>
   <summary>Why is Commit doing this?</summary>
