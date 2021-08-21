@@ -15,7 +15,6 @@ To provide startup engineers a single source of truth for everything they will n
 <details>
   <summary>How to contribute</summary>
   
-  - [Submitting your ideas in discussion](https://github.com/commitdev/companion/discussions)
   - [Drop your thoughts into the community discussions](https://github.com/commitdev/companion/discussions)
     - [What do you want to see in the companion?](https://github.com/commitdev/companion/discussions/1)
     - [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
