@@ -21,4 +21,4 @@ To provide startup engineers a single source of truth for everything they will n
     - [What do you want to see in our engineering blog articles?](https://github.com/commitdev/companion/discussions/3)
 </details>
 
-The Companion is hosted at [companion.commit.dev](companion.commit.dev).
+The Companion is hosted at [companion.commit.dev](https://commit-companion.web.app/).
