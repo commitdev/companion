@@ -8,7 +8,7 @@ The Companion is the manual to a successful software engineering career!
 
 It is a website we host at [companion.commit.dev](https://commit-companion.web.app/)
 
-## What is it's purpose?
+## What is its purpose?
 
 It serves as the central knowledge base and collective expertise of everyone in the [Commit](https://commit.dev/) community.
 
