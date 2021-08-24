@@ -6,7 +6,7 @@ module.exports = {
   title: 'Companion',
   tagline: 'The manual to a successful remote startup software engineering career!',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/companion',
+  baseUrl: '/companion/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
