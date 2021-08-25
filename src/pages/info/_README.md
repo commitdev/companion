@@ -1,0 +1,1 @@
+This directory is named info because the app doesn't load properly when named "news".
