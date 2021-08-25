@@ -1,7 +1,5 @@
 # Companion
 
-![Banner](https://github.com/commitdev/companion/blob/master/companion.png)
-
 The Companion is the manual to a successful software engineering career!
 
 ## What is it?
