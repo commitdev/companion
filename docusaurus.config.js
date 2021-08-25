@@ -26,20 +26,15 @@ module.exports = {
         //   position: 'left',
         //   type: 'doc',
         // },
-        {
-          label: 'News',
-          position: 'left',
-          to: '/info',
-        },
+        // {
+        //   label: 'News',
+        //   position: 'left',
+        //   to: '/info',
+        // },
         {
           label: 'Guides',
           position: 'left',
           to: '/guides',
-        },
-        {
-          label: 'Handbooks',
-          position: 'left',
-          to: '/handbooks',
         },
         {
           label: 'Contribute',
