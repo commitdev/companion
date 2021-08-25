@@ -20,11 +20,16 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
+        // {
+        //   docId: 'intro',
+        //   label: 'Tutorial',
+        //   position: 'left',
+        //   type: 'doc',
+        // },
         {
-          docId: 'intro',
-          label: 'Tutorial',
+          label: 'News',
           position: 'left',
-          type: 'doc',
+          to: '/news',
         },
         {
           label: 'Handbooks',
