@@ -10,13 +10,13 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'commitdev', // Usually your GitHub org/user name.
-  projectName: 'companion', // Usually your repo name.
+  organizationName: 'commitdev',
+  projectName: 'companion',
   themeConfig: {
     navbar: {
       title: 'Companion',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Companion Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -27,9 +27,9 @@ module.exports = {
           type: 'doc',
         },
         {
-          label: 'Blog',
+          label: 'Handbooks',
           position: 'left',
-          to: '/blog',
+          to: '/handbooks',
         },
         {
           label: 'Contribute',
@@ -42,28 +42,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Handbooks',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'EP Program',
+              to: '/handbooks/ep-program/intro',
             },
           ],
         },
@@ -72,16 +55,16 @@ module.exports = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              href: 'https://commit.dev/blog/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/commitdev/companion',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Commit Inc.`,
     },
     prism: {
       theme: lightCodeTheme,
