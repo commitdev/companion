@@ -47,11 +47,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Handbooks',
+          title: 'Guides',
           items: [
             {
               label: 'EP Program',
-              to: '/handbooks/ep-program',
+              to: '/guides/ep-program',
             },
           ],
         },
