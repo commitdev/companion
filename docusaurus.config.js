@@ -15,10 +15,10 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Companion',
-      logo: {
-        alt: 'Companion Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'Companion Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         // {
         //   docId: 'intro',
