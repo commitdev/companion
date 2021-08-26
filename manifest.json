@@ -10,7 +10,7 @@
   "related_applications": [
     {
       "platform": "webapp",
-      "url": "https://companion.commit.dev/manifest.json"
+      "url": "https://commitdev.github.io/companion/manifest.json"
     }
   ],
   "icons": [
