@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcompanion=self.webpackChunkcompanion||[]).push([[988],{7176:function(n){n.exports=JSON.parse('{"allTagsPath":"/companion/blog/tags","slug":"/companion/blog/tags/temp","name":"temp","count":1,"permalink":"/companion/blog/tags/temp"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcompanion=self.webpackChunkcompanion||[]).push([[317],{1741:function(o){o.exports=JSON.parse('{"permalink":"/companion/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

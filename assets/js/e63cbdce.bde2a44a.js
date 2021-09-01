@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcompanion=self.webpackChunkcompanion||[]).push([[721],{1060:function(o){o.exports=JSON.parse('{"allTagsPath":"/companion/blog/tags","slug":"/companion/blog/tags/commit","name":"commit","count":1,"permalink":"/companion/blog/tags/commit"}')}}]);

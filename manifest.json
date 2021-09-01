@@ -1,8 +1,8 @@
 {
   "name": "Companion",
   "short_name": "Companion",
-  "description": "The manual to a successful remote startup software engineering career!",
-  "theme_color": "#2196f3",
+  "description": "How to amplify your remote software startup career transition!",
+  "theme_color": "#ff6ab9",
   "background_color": "#fff",
   "display": "standalone",
   "scope": "./",
