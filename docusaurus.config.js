@@ -42,7 +42,7 @@ module.exports = {
             },
             {
               label: 'Suggest a feature',
-              href: 'https://github.com/commitdev/companion/issues/new?assignees=&labels=bug&template=bug_report.md&title=Bug%3A+',
+              href: 'https://github.com/commitdev/companion/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=Feature%3A+'
             },
           ]
         },
@@ -115,6 +115,5 @@ module.exports = {
         ],
       },
     ],
-    '@docusaurus/plugin-google-analytics',
   ],
 };
